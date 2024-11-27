@@ -1,0 +1,787 @@
+[
+    {
+        "Id": "5eb9c2cf097346fba81da0d7659553f5",
+        "RecognitionStatus": 0,
+        "Offset": 15100000,
+        "Duration": 71200000,
+        "Channel": 0,
+        "DisplayText": "Não sei como está por aí, mas por aqui está tudo bem, Hein? Por.",
+        "NBest": [
+            {
+                "Confidence": 0.69440645,
+                "Lexical": "não sei como está por aí mas por aqui está tudo bem hein por",
+                "ITN": "não sei como está por aí mas por aqui está tudo bem hein por",
+                "MaskedITN": "não sei como está por aí mas por aqui está tudo bem hein por",
+                "Display": "Não sei como está por aí, mas por aqui está tudo bem, Hein? Por.",
+                "Words": [
+                    {
+                        "Word": "não",
+                        "Offset": 168100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "sei",
+                        "Offset": 171300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "como",
+                        "Offset": 174100000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "está",
+                        "Offset": 179300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "por",
+                        "Offset": 182900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "aí",
+                        "Offset": 186900000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "mas",
+                        "Offset": 192100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "por",
+                        "Offset": 196100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "aqui",
+                        "Offset": 198900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "está",
+                        "Offset": 202900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "tudo",
+                        "Offset": 206500000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "bem",
+                        "Offset": 211700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "hein",
+                        "Offset": 213300000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "por",
+                        "Offset": 237300000,
+                        "Duration": 2000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.69407034,
+                "Lexical": "não sei como está por aí mas por aqui está tudo bem hein por",
+                "ITN": "não sei como está por aí mas por aqui está tudo bem hein por",
+                "MaskedITN": "não sei como está por aí mas por aqui está tudo bem hein por",
+                "Display": "não sei como está por aí mas por aqui está tudo bem hein por",
+                "Words": [
+                    {
+                        "Word": "não",
+                        "Offset": 168100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "sei",
+                        "Offset": 171300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "como",
+                        "Offset": 174100000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "está",
+                        "Offset": 179300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "por",
+                        "Offset": 182900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "aí",
+                        "Offset": 186900000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "mas",
+                        "Offset": 192100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "por",
+                        "Offset": 196100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "aqui",
+                        "Offset": 198900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "está",
+                        "Offset": 202900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "tudo",
+                        "Offset": 206500000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "bem",
+                        "Offset": 211700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "hein",
+                        "Offset": 213300000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "por",
+                        "Offset": 237300000,
+                        "Duration": 2000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.6944062,
+                "Lexical": "não sei como está por aí mas por aqui está tudo bem hein por",
+                "ITN": "não sei como está por aí mas por aqui está tudo bem hein por",
+                "MaskedITN": "não sei como está por aí mas por aqui está tudo bem hein por",
+                "Display": "não sei como está por aí mas por aqui está tudo bem hein por",
+                "Words": [
+                    {
+                        "Word": "não",
+                        "Offset": 168100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "sei",
+                        "Offset": 171300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "como",
+                        "Offset": 174100000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "está",
+                        "Offset": 179300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "por",
+                        "Offset": 182900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "aí",
+                        "Offset": 186900000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "mas",
+                        "Offset": 192100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "por",
+                        "Offset": 196100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "aqui",
+                        "Offset": 198900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "está",
+                        "Offset": 202900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "tudo",
+                        "Offset": 206500000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "bem",
+                        "Offset": 211700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "hein",
+                        "Offset": 213300000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "por",
+                        "Offset": 237300000,
+                        "Duration": 2000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.6940701,
+                "Lexical": "não sei como está por aí mas por aqui está tudo bem hein por",
+                "ITN": "não sei como está por aí mas por aqui está tudo bem hein por",
+                "MaskedITN": "não sei como está por aí mas por aqui está tudo bem hein por",
+                "Display": "não sei como está por aí mas por aqui está tudo bem hein por",
+                "Words": [
+                    {
+                        "Word": "não",
+                        "Offset": 168100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "sei",
+                        "Offset": 171300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "como",
+                        "Offset": 174100000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "está",
+                        "Offset": 179300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "por",
+                        "Offset": 182900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "aí",
+                        "Offset": 186900000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "mas",
+                        "Offset": 192100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "por",
+                        "Offset": 196100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "aqui",
+                        "Offset": 198900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "está",
+                        "Offset": 202900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "tudo",
+                        "Offset": 206500000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "bem",
+                        "Offset": 211700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "hein",
+                        "Offset": 213300000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "por",
+                        "Offset": 237300000,
+                        "Duration": 2000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.7124363,
+                "Lexical": "não sei como está por aí mas por aqui está tudo bem hein",
+                "ITN": "não sei como está por aí mas por aqui está tudo bem hein",
+                "MaskedITN": "não sei como está por aí mas por aqui está tudo bem hein",
+                "Display": "não sei como está por aí mas por aqui está tudo bem hein",
+                "Words": [
+                    {
+                        "Word": "não",
+                        "Offset": 168100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "sei",
+                        "Offset": 171300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "como",
+                        "Offset": 174100000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "está",
+                        "Offset": 179300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "por",
+                        "Offset": 182900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "aí",
+                        "Offset": 186900000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "mas",
+                        "Offset": 192100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "por",
+                        "Offset": 196100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "aqui",
+                        "Offset": 198900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "está",
+                        "Offset": 202900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "tudo",
+                        "Offset": 206500000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "bem",
+                        "Offset": 211700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "hein",
+                        "Offset": 213300000,
+                        "Duration": 6400000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "6a7b8eff638b4fe0b846ec1788e849ea",
+        "RecognitionStatus": 0,
+        "Offset": 87200000,
+        "Duration": 37200000,
+        "Channel": 0,
+        "DisplayText": "Aqui está tudo bem, eu sempre.",
+        "NBest": [
+            {
+                "Confidence": 0.6579938,
+                "Lexical": "aqui está tudo bem eu sempre",
+                "ITN": "aqui está tudo bem eu sempre",
+                "MaskedITN": "aqui está tudo bem eu sempre",
+                "Display": "Aqui está tudo bem, eu sempre.",
+                "Words": [
+                    {
+                        "Word": "aqui",
+                        "Offset": 240200000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "está",
+                        "Offset": 244200000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "tudo",
+                        "Offset": 247800000,
+                        "Duration": 8800000
+                    },
+                    {
+                        "Word": "bem",
+                        "Offset": 259000000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 270200000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "sempre",
+                        "Offset": 272600000,
+                        "Duration": 4800000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.91255563,
+                "Lexical": "aqui está tudo bem",
+                "ITN": "aqui está tudo bem",
+                "MaskedITN": "aqui está tudo bem",
+                "Display": "aqui está tudo bem",
+                "Words": [
+                    {
+                        "Word": "aqui",
+                        "Offset": 240200000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "está",
+                        "Offset": 244200000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "tudo",
+                        "Offset": 247800000,
+                        "Duration": 8800000
+                    },
+                    {
+                        "Word": "bem",
+                        "Offset": 259000000,
+                        "Duration": 1600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.91255563,
+                "Lexical": "aqui está tudo bem",
+                "ITN": "aqui está tudo bem",
+                "MaskedITN": "aqui está tudo bem",
+                "Display": "aqui está tudo bem",
+                "Words": [
+                    {
+                        "Word": "aqui",
+                        "Offset": 240200000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "está",
+                        "Offset": 244200000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "tudo",
+                        "Offset": 247800000,
+                        "Duration": 8800000
+                    },
+                    {
+                        "Word": "bem",
+                        "Offset": 259000000,
+                        "Duration": 2400000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.6579938,
+                "Lexical": "aqui está tudo bem eu sempre",
+                "ITN": "aqui está tudo bem eu sempre",
+                "MaskedITN": "aqui está tudo bem eu sempre",
+                "Display": "aqui está tudo bem eu sempre",
+                "Words": [
+                    {
+                        "Word": "aqui",
+                        "Offset": 240200000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "está",
+                        "Offset": 244200000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "tudo",
+                        "Offset": 247800000,
+                        "Duration": 8800000
+                    },
+                    {
+                        "Word": "bem",
+                        "Offset": 259000000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 270200000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "sempre",
+                        "Offset": 272600000,
+                        "Duration": 4800000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.7561375,
+                "Lexical": "aqui está tudo bem eu",
+                "ITN": "aqui está tudo bem eu",
+                "MaskedITN": "aqui está tudo bem eu",
+                "Display": "aqui está tudo bem eu",
+                "Words": [
+                    {
+                        "Word": "aqui",
+                        "Offset": 240200000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "está",
+                        "Offset": 244200000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "tudo",
+                        "Offset": 247800000,
+                        "Duration": 8800000
+                    },
+                    {
+                        "Word": "bem",
+                        "Offset": 259000000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 270200000,
+                        "Duration": 7200000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "469211ebf9ef41ecb907d8a61152c342",
+        "RecognitionStatus": 0,
+        "Offset": 125200000,
+        "Duration": 37600000,
+        "Channel": 0,
+        "DisplayText": "Limpo a casa quando você ferrei.",
+        "NBest": [
+            {
+                "Confidence": 0.72889805,
+                "Lexical": "limpo a casa quando você ferrei",
+                "ITN": "limpo a casa quando você ferrei",
+                "MaskedITN": "limpo a casa quando você ferrei",
+                "Display": "Limpo a casa quando você ferrei.",
+                "Words": [
+                    {
+                        "Word": "limpo",
+                        "Offset": 278200000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 283000000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "casa",
+                        "Offset": 284600000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "quando",
+                        "Offset": 291000000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "você",
+                        "Offset": 296600000,
+                        "Duration": 8800000
+                    },
+                    {
+                        "Word": "ferrei",
+                        "Offset": 305400000,
+                        "Duration": 10400000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.72889805,
+                "Lexical": "limpo a casa quando você ferrei",
+                "ITN": "limpo a casa quando você ferrei",
+                "MaskedITN": "limpo a casa quando você ferrei",
+                "Display": "limpo a casa quando você ferrei",
+                "Words": [
+                    {
+                        "Word": "limpo",
+                        "Offset": 278200000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 283000000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "casa",
+                        "Offset": 284600000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "quando",
+                        "Offset": 291000000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "você",
+                        "Offset": 296600000,
+                        "Duration": 8800000
+                    },
+                    {
+                        "Word": "ferrei",
+                        "Offset": 305400000,
+                        "Duration": 10400000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.72889805,
+                "Lexical": "limpo a casa quando você ferrei",
+                "ITN": "limpo a casa quando você ferrei",
+                "MaskedITN": "limpo a casa quando você ferrei",
+                "Display": "limpo a casa quando você ferrei",
+                "Words": [
+                    {
+                        "Word": "limpo",
+                        "Offset": 278200000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 283000000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "casa",
+                        "Offset": 284600000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "quando",
+                        "Offset": 291000000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "você",
+                        "Offset": 296600000,
+                        "Duration": 8800000
+                    },
+                    {
+                        "Word": "ferrei",
+                        "Offset": 305400000,
+                        "Duration": 10400000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.72889805,
+                "Lexical": "limpo a casa quando você ferrei",
+                "ITN": "limpo a casa quando você ferrei",
+                "MaskedITN": "limpo a casa quando você ferrei",
+                "Display": "limpo a casa quando você ferrei",
+                "Words": [
+                    {
+                        "Word": "limpo",
+                        "Offset": 278200000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 283000000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "casa",
+                        "Offset": 284600000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "quando",
+                        "Offset": 291000000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "você",
+                        "Offset": 296600000,
+                        "Duration": 8800000
+                    },
+                    {
+                        "Word": "ferrei",
+                        "Offset": 305400000,
+                        "Duration": 10400000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.72889805,
+                "Lexical": "limpo a casa quando você ferrei",
+                "ITN": "limpo a casa quando você ferrei",
+                "MaskedITN": "limpo a casa quando você ferrei",
+                "Display": "limpo a casa quando você ferrei",
+                "Words": [
+                    {
+                        "Word": "limpo",
+                        "Offset": 278200000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 283000000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "casa",
+                        "Offset": 284600000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "quando",
+                        "Offset": 291000000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "você",
+                        "Offset": 296600000,
+                        "Duration": 8800000
+                    },
+                    {
+                        "Word": "ferrei",
+                        "Offset": 305400000,
+                        "Duration": 10400000
+                    }
+                ]
+            }
+        ]
+    }
+]
